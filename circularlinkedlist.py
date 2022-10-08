@@ -41,11 +41,13 @@ class LinkedList:
                     elif(k==n):
                         pos=last
                     last = last.next
-                    
-                if(last.next == pos):
+                try:
+                    pos.data
+                    last.next=pos
                     return True
-                else:
+                except:
                     return False
+                
             
 
 
