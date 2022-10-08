@@ -14,4 +14,4 @@ Steps to start Application
     - step 1: go to project directory react located in frontend 
     - setp 2: install packages cmd : npm install
     - step 3: start server cmd : npm start
-    Note: to run as seperate servers you should also start the Django server beacuse database and backend code is located in the backend
+    Note: to run as seperate servers you should also start the Django server because database and backend code is located in the backend
