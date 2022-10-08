@@ -1,0 +1,7 @@
+Assignment feedback:
+The first part of the assignment is clear where we have to create a TODO app and it has crystal clear what to do 
+where as the second part where we have to choose questions from the given I found some complexity in understanding
+problem 1: I had some complexity in understanding could you please provide some description
+problem 3: Is regular problem solving and easy to understand
+
+Apart from this everything is fine
